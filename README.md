@@ -121,6 +121,3 @@ ORDER BY c.signup_date;
 📍 Los Angeles, CA  
 🚀 Passionate about data analytics and business intelligence.
 
----
-
-This README is now ready for GitHub! Let me know if you need any changes or additions. 🚀
